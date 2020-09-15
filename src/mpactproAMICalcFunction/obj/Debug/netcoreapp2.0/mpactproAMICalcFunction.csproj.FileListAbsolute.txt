@@ -1,0 +1,13 @@
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\obj\Debug\netcoreapp2.0\mpactproAMICalcFunction.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\obj\Debug\netcoreapp2.0\mpactproAMICalcFunction.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\obj\Debug\netcoreapp2.0\mpactproAMICalcFunction.AssemblyInfoInputs.cache
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\obj\Debug\netcoreapp2.0\mpactproAMICalcFunction.AssemblyInfo.cs
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\obj\Debug\netcoreapp2.0\mpactproAMICalcFunction.dll
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\obj\Debug\netcoreapp2.0\mpactproAMICalcFunction.pdb
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\bin\Debug\netcoreapp2.0\mpactproAMICalcFunction.deps.json
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\bin\Debug\netcoreapp2.0\mpactproAMICalcFunction.runtimeconfig.json
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\bin\Debug\netcoreapp2.0\mpactproAMICalcFunction.runtimeconfig.dev.json
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\bin\Debug\netcoreapp2.0\mpactproAMICalcFunction.dll
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\bin\Debug\netcoreapp2.0\mpactproAMICalcFunction.pdb
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\bin\Debug\netcoreapp2.0\saasafrasLambdaBaseFunction.dll
+C:\Users\Dylan\source\repos\Lambda\mpactproAMICalcFunction\src\mpactproAMICalcFunction\bin\Debug\netcoreapp2.0\saasafrasLambdaBaseFunction.pdb
